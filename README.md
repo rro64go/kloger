@@ -10,6 +10,6 @@ para detener el proceso del keylogger se digita lo siguiente (`Ctrl + Alt + S`).
 ## 🛠️ Instalación y Uso
 instalar la siguiente libreria de esta manera:
 pip install pynput
-ejecutar en modo consola: `python logger.py`
+ejecutar en modo consola: `logger.py`
 
   ejecutar en segundo plano: `pythonlogger.pyw`
